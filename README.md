@@ -1,4 +1,4 @@
-<h1 align="center">Tabla De Multiplicar Por Consola App</h1>
+<h1 align="center">Tabla De Multiplicar Por Consola</h1>
 <p align="center"> 
  Esta es una aplicación de consola realizada en Node.js,  que generar una tabla de multiplicar que se puede listar por pantalla o guardar en un archivo de texto.
 </p>
@@ -21,12 +21,11 @@
 </p>
 <h1> </h1>
 <p align="center">
-  <h2 align="center">Tabla De Multilicar App Video</h2>
+  <h2 align="center">Tabla De Multilicar Video</h2>
     <img src="https://i.imgur.com/46CObZS.giff" alt="uuid" width="100%" height="100%"/>
 </p>
 <h1></h1>
-<h2 align="center">Comandos de La App</h2>
-<p align="center">
+<h2 align="center">Comandos</h2>
   
     Commands:
         app listar  Imprime en consola la tabla de multiplicar
