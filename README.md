@@ -20,6 +20,11 @@
   
 </p>
 <h1> </h1>
+<p align="center">
+  <h2 align="center">Gestor De Tareas App Video</h2>
+    <img src="https://i.imgur.com/46CObZS.giff" alt="uuid" width="100%" height="100%"/>
+</p>
+<h1></h1>
 <h2 align="center">Comandos de La App</h2>
 <p align="center">
   
