@@ -19,7 +19,6 @@
   <img src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png" alt="cplusplus" width="50" height="50"/> 
   Yargs</a>
   <br>
-  <br>
 </p>
 <h1> </h1>
 <h2 align="center">Ejecutar este comando</h2>
