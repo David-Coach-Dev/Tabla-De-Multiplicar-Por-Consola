@@ -13,12 +13,13 @@
     <img src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png" alt="cplusplus" width="50" height="50"/>Yargs</a>
 </p>
 <h1> </h1>
-<h2 align="center">Ejecutar este comando</h2>
-<p align="center"> 
+<h2 align="center">Nota</h2>
+  <p align="center"> 
+    Recuerde reconstruir los módulos de node con el comando
+  </p>
   
     npm install
   
-</p>
 <h1> </h1>
 <p align="center">
   <h2 align="center">Tabla De Multilicar Video</h2>
