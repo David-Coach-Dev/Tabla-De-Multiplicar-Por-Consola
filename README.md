@@ -5,33 +5,24 @@
 <h1> </h1>
 <h2 align="center">Librerias</h2>
 <p align="center"> 
-  <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="50" height="50"/>
-  Node.js</a>
-  <br>
-  <br>
-  <a href="https://www.npmjs.com/package/colors" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/Marak/colors.js/master/screenshots/colors.png" alt="cplusplus" width="50" height="50"/> 
-  Colors.js</a>
-  <br>
-  <br>
-  <a href="https://www.npmjs.com/package/yargs" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png" alt="cplusplus" width="50" height="50"/> 
-  Yargs</a>
-  <br>
+  <a href="https://nodejs.org/es/" target="_blank" rel="node.js">
+    <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="50" height="50"/></a>
+  <a href="https://www.npmjs.com/package/colors" target="_blank" rel="color.js">
+    <img src="https://raw.githubusercontent.com/Marak/colors.js/master/screenshots/colors.png" alt="cplusplus" width="50" height="50"/></a>
+  <a href="https://www.npmjs.com/package/yargs" target="_blank" rel="yargs">
+    <img src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png" alt="cplusplus" width="50" height="50"/></a>
 </p>
 <h1> </h1>
 <h2 align="center">Ejecutar este comando</h2>
 <p align="center"> 
-  <code>
+  
     npm install
-  </code>
+  
 </p>
 <h1> </h1>
-<h2 align="center">Comando de La App</h2>
+<h2 align="center">Comandos de La App</h2>
 <p align="center">
-  <code>
-
+  
     Commands:
         app listar  Imprime en consola la tabla de multiplicar
         app crear   Genera un archivo con la tabla de multiplicar
@@ -42,17 +33,14 @@
         --base, -b    Base de la tabla                                      [required]
         --limite, -l  Limite de la tabla                                 [default: 10]
 
-  </code>
   <h2 align="center">Crear Archivo</h2>
-  <code>
 
     node app crear -b5 l-10
 
     Archivo creado:  tabla-5-al-10.txt
 
-  </code>
+  
   <h2 align="center">Listar tabla en consola</h2>
-  <code>
 
     node app listar -b5 l-10
 
@@ -73,6 +61,4 @@
     5*  10  =  50
     =========================
 
-  
-  </code>
 </p>
