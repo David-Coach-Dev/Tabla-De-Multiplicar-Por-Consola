@@ -3,7 +3,7 @@
   Esta es una aplicación para generar archivos de tablas de multiplicar en Node Js
 </p>
 <h1> </h1>
-<h2 align="center">Librerias</h2>
+<h2 align="center">Herramientas</h2>
 <p align="center"> 
   <a href="https://nodejs.org/es/" target="_blank" rel="node.js">
     <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="50" height="50"/>Node.js</a><br>
