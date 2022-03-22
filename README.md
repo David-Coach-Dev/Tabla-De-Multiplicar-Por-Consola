@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Tabla De Multiplicar Por Consola App</h1>
 <p align="center"> 
   Esta es una aplicación para generar archivos de tablas de multiplicar en Node Js
