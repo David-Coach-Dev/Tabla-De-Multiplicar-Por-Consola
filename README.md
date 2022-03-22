@@ -6,11 +6,11 @@
 <h2 align="center">Herramientas</h2>
 <p align="center"> 
   <a href="https://nodejs.org/es/" target="_blank" rel="node.js">
-    <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="50" height="50"/>Node.js</a><br>
+    <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="50" height="50"/n> - node.js</a><br>
   <a href="https://www.npmjs.com/package/colors" target="_blank" rel="color.js">
-    <img src="https://raw.githubusercontent.com/Marak/colors.js/master/screenshots/colors.png" alt="cplusplus" width="50" height="50"/>Color.js</a><br>
+    <img src="https://raw.githubusercontent.com/Marak/colors.js/master/screenshots/colors.png" alt="cplusplus" width="50" height="50"/> - color.js</a><br>
   <a href="https://www.npmjs.com/package/yargs" target="_blank" rel="yargs">
-    <img src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png" alt="cplusplus" width="50" height="50"/>Yargs</a>
+    <img src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png" alt="cplusplus" width="50" height="50"/> - yargs</a>
 </p>
 <h1> </h1>
 <h2 align="center">Nota</h2>
